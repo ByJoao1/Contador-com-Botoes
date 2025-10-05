@@ -27,7 +27,7 @@ Além disso, o contador mantém um **histórico dos últimos 5 números** exibid
 - CSS3  
 - JavaScript (DOM e eventos)
 
-## 💡 Lógica e Implementação
+## 💡 Lógica
 1. O número principal é exibido dentro de um elemento `<h2>`.
 2. Cada botão usa um **event listener** (`addEventListener`) para reagir aos cliques.
 3. O histórico é controlado por um **array** em JavaScript, sempre mostrando apenas os últimos 5 números.
