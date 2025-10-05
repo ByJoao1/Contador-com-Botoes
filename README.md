@@ -27,8 +27,8 @@ Além disso, o contador mantém um **histórico dos últimos 5 números** exibid
 3. O histórico é controlado por um **array** em JavaScript, sempre mostrando apenas os últimos 5 números.
 4. O layout foi feito com CSS e possui botões coloridos para cada ação.
 
-## 🌐 Publicação
-O projeto pode ser publicado no **GitHub Pages**.
+
+
 
 Exemplo de link:
 ```
