@@ -4,7 +4,8 @@ Projeto desenvolvido para a disciplina **Desenvolvimento Web II**
 Data: **Outubro de 2025**
 
 ## 👩‍💻 Integrante
-- **Carla Sophia Cavalcante Nascimento**
+- **João Pedro Abreu Da Costa**
+- **Ellen Lopes de Oliveira**
 
 ## 📝 Descrição
 O projeto é um **contador interativo** criado com **HTML, CSS e JavaScript**.  
