@@ -16,6 +16,12 @@ Ele possui três botões principais:
 
 Além disso, o contador mantém um **histórico dos últimos 5 números** exibidos na tela.
 
+## ✅ O que foi implementado
+- Interface com título, nome(s) do(s) integrante(s), contador grande e 3 botões (aumentar, diminuir, resetar).
+- Área que exibe o histórico dos **últimos 5 valores**.
+- Lógica JavaScript separada em `js/script.js`, estilos em `css/estilo.css` e página em `index.html`.
+- README detalhado (este arquivo) explicando estruturas, lógica e decisões de implementação.
+
 ## ⚙️ Tecnologias Utilizadas
 - HTML5  
 - CSS3  
