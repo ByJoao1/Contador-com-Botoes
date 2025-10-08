@@ -1,7 +1,6 @@
 # Contador com Botões
 
 Projeto desenvolvido para a disciplina **Desenvolvimento Web II**  
-Data: **Outubro de 2025**
 
 ## Integrantes
 - **João Pedro Abreu Da Costa**
