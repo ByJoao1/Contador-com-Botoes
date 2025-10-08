@@ -38,5 +38,5 @@ Além disso, o contador mantém um **histórico dos últimos 5 números** exibid
 
 Exemplo de link:
 ```
-https://seuusuario.github.io/contador-com-botoes/
+https://ByJoao1.github.io/contador-com-botoes/
 ```
